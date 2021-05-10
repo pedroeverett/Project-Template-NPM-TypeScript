@@ -4,7 +4,7 @@ A simple template for your projects; includes react, typescript, webpack, mobx, 
 
 ### 3...
 
-Install the thing:
+Install:
 
 ```
 npm install
@@ -12,7 +12,7 @@ npm install
 
 #### 2...
 
-Run the thing:
+Run:
 
 ```
 npm run dev
@@ -20,7 +20,7 @@ npm run dev
 
 #### 1...
 
-Build the thing:
+Build:
 
 ```
 npm run build
