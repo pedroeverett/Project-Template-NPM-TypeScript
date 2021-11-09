@@ -6,8 +6,6 @@ import { AppState } from './AppState';
 export class App extends React.PureComponent {
   private readonly appState = new AppState();
   public render() {
-    return (
-      return <button onClick={()=> this.appState.incCount()}>Clicks: {this.appState.count}</button>
-    );
+    return <button onClick={() => this.appState.incCount()}>Clicks: {this.appState.count}</button>;
   }
 }
