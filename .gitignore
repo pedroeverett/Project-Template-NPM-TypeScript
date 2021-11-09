@@ -79,3 +79,5 @@ typings/
 .ds_store
 
 package-lock.json
+
+.vscode
